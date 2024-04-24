@@ -21,7 +21,7 @@ author: Jaepill Choi
 
 # 여기가 page 바 만드는 곳
 navbar-links:
-  Home: "" # aboutme.md 수정하면 되는 부분
+  Home: ".." # aboutme.md 수정하면 되는 부분
   Publications: "publications"
   CV: "cv"
 
