@@ -50,6 +50,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jaepill9205@snu.ac.kr"
+  google: "https://scholar.google.com/citations?hl=ko&user=jJNFoJUAAAAJ"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
   github: "cjaep"
