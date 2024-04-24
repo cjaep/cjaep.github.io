@@ -764,10 +764,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   /* jaepill: 원래 아래 font-size: 5rem */
   .intro-header .page-heading h1 {
-    font-size: 30px;  
+    font-size: 40px;  
   }
+  /* jaepill: 원래 아래 font-size: 3.125rem */
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 30px;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
