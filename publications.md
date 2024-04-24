@@ -11,6 +11,8 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=ko&user=
 - **Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information**  
   Kyubyung Chae\*, **Jaepill Choi\***, Yohan Jo, Taesup Kim  
   *Findings of the Association for Computational Linguistics: NAACL 2024*  
-  [Paper](https://arxiv.org/abs/2404.09480){: .btn}
-  [Code](https://github.com/qqplot/dcpmi){: .btn} 
+  <a href="https://arxiv.org/abs/2404.09480" target="_blank">Paper
+  <a href="https://github.com/qqplot/dcpmi" target="_blank">Code
+  <!-- [Paper](https://arxiv.org/abs/2404.09480){: .btn}
+  [Code](https://github.com/qqplot/dcpmi){: .btn}  -->
 
