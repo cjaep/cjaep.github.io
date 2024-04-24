@@ -11,7 +11,7 @@ title: Publications
 - **Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information**  
   Kyubyung Chae\*, **Jaepill Choi\***, Yohan Jo, Taesup Kim  
   *Findings of the Association for Computational Linguistics: NAACL 2024*  
-  <a href="https://arxiv.org/abs/2404.09480" target="_blank">Paper</a>
+  <a href="https://arxiv.org/abs/2404.09480" target="_blank">Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/qqplot/dcpmi" target="_blank">Code</a>
   <!-- [Paper](https://arxiv.org/abs/2404.09480){: .btn .btn--primary}
   [Code](https://github.com/qqplot/dcpmi){: .btn .btn--primary} -->
