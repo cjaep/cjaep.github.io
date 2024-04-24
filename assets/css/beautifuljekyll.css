@@ -509,7 +509,7 @@ footer .footer-custom-content {
 
 /* jaepill: font-size 원래 1.875rem */
 .post-preview .post-title {
-  font-size: 24px;
+  font-size: 1.875rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -762,8 +762,9 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   .intro-header.big-img .post-heading {
     padding: 9.375rem 0;
   }
+  /* jaepill: 원래 아래 font-size: 5rem */
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 30px;  
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
