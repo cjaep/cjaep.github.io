@@ -17,3 +17,10 @@ title: Publications
   <!-- [Paper](https://arxiv.org/abs/2404.09480){: .btn .btn--primary}
   [Code](https://github.com/qqplot/dcpmi){: .btn .btn--primary} -->
 
+- **Fine-tuning Language Models to Alleviate Hallucinations in Abstractive Summarization”,**  
+  **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Taesup Kim  
+  *KCC 2024*  
+
+- **Model-based Preference Optimization in Abstractive Summarization without Human Feedback”,**  
+  **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
+  *EMNLP 2024 (Under Review)*  
