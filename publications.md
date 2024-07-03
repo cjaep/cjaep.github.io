@@ -11,16 +11,18 @@ title: Publications
 - **Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information**  
   Kyubyung Chae\*, **Jaepill Choi\***, Yohan Jo, Taesup Kim  
   *Findings of the Association for Computational Linguistics: NAACL 2024*  
-  <a href="https://arxiv.org/abs/2404.09480" target="_blank">Paper</a>
+  <a href="https://aclanthology.org/2024.findings-naacl.117.pdf" target="_blank">Paper</a>
   &nbsp;&nbsp;
   <a href="https://github.com/qqplot/dcpmi" target="_blank">Code</a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/j9MqhSnyIVo" target="_blank">Video</a>
   <!-- [Paper](https://arxiv.org/abs/2404.09480){: .btn .btn--primary}
   [Code](https://github.com/qqplot/dcpmi){: .btn .btn--primary} -->
 
-- **Fine-tuning Language Models to Alleviate Hallucinations in Abstractive Summarization”,**  
+- **Fine-tuning Language Models to Alleviate Hallucinations in Abstractive Summarization**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Taesup Kim  
   *KCC 2024*  
 
-- **Model-based Preference Optimization in Abstractive Summarization without Human Feedback”,**  
+- **Model-based Preference Optimization in Abstractive Summarization without Human Feedback**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
   *EMNLP 2024 (Under Review)*  

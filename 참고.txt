@@ -1,3 +1,11 @@
 1. _config.yml이 메인 페이지 수정란
 
 2. index.html, cv.html 등 수정하면 페이지 수정 가능
+
+
+올리는법
+1. git add .
+2. git status -> 잘 됐는지 확인
+3. git commit -m message
+4. git push
+5. git pull
