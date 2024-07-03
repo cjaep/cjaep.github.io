@@ -22,6 +22,7 @@ title: Publications
 - **Fine-tuning Language Models to Alleviate Hallucinations in Abstractive Summarization**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Taesup Kim  
   *KCC 2024*  
+  <a href="https://drive.google.com/file/d/1ECivbzXfoasR6r474LtbHAU_94sSciSS/view?usp=drive_link" target="_blank">Paper</a>
 
 - **Model-based Preference Optimization in Abstractive Summarization without Human Feedback**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
