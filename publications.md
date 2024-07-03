@@ -27,3 +27,5 @@ title: Publications
 - **Model-based Preference Optimization in Abstractive Summarization without Human Feedback**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
   *EMNLP 2024 (Under Review)*  
+
+\* Equal Contribution
