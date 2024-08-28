@@ -1,6 +1,6 @@
 1. _config.yml이 메인 페이지 수정란
 
-2. index.html, cv.html 등 수정하면 페이지 수정 가능
+2. index.html, cv.html, publications.md 등 수정하면 페이지 수정 가능
 
 
 올리는법
