@@ -11,12 +11,14 @@ title: Publications
 - **Model-based Preference Optimization in Abstractive Summarization without Human Feedback**  
   **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
   *\[EMNLP\] Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: EMNLP, 2024*  
+  <a href="https://aclanthology.org/2024.emnlp-main.1048/" target="_blank">Paper</a>
+  &nbsp;&nbsp;
   <a href="https://github.com/cjaep/MPO" target="_blank">Code</a>
 
 - **Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information**  
   Kyubyung Chae\*, **Jaepill Choi\***, Yohan Jo, Taesup Kim  
   *\[NAACL\] Findings of the Association for Computational Linguistics: NAACL, 2024*  
-  <a href="https://aclanthology.org/2024.findings-naacl.117.pdf" target="_blank">Paper</a>
+  <a href="https://aclanthology.org/2024.findings-naacl.117/" target="_blank">Paper</a>
   &nbsp;&nbsp;
   <a href="https://github.com/qqplot/dcpmi" target="_blank">Code</a>
   &nbsp;&nbsp;
