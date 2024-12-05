@@ -9,7 +9,7 @@ title: Publications
 **2024**
 
 - **Model-based Preference Optimization in Abstractive Summarization without Human Feedback**  
-  **Jaepill Choi**, Kyubyung Chae, Jiwoo Song, Yohan Jo, Taesup Kim  
+  **Jaepill Choi\***, Kyubyung Chae\*, Jiwoo Song, Yohan Jo, Taesup Kim  
   *\[EMNLP\] Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: EMNLP, 2024*  
   <a href="https://aclanthology.org/2024.emnlp-main.1048/" target="_blank">Paper</a>
   &nbsp;&nbsp;
